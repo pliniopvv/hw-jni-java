@@ -10,7 +10,7 @@ public class Calculadora {
         var calculadora = new Calculadora();
         int resultado = calculadora.soma(1,2);
 
-        System.out.println("O resultado da soma é: " + resultado);
+        System.out.println("O resultado da soma eh: " + resultado);
     }
 
 }
